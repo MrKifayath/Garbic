@@ -1,0 +1,3245 @@
+[
+  {
+    "id": "prod-0016",
+    "name": "Formal Cotton Shirt",
+    "description": "Classic formal shirt crafted from premium cotton with wrinkle-resistant finish. Features regular fit, button-down collar, and professional styling for office wear.",
+    "price": 1299,
+    "originalPrice": 7000,
+    "images": [
+      "/images/products/Formal Cotton Shirt/main.jpg",
+      "/images/products/Formal Cotton Shirt/1.jpg",
+      "/images/products/Formal Cotton Shirt/2.jpg",
+      "/images/products/Formal Cotton Shirt/3.jpg",
+      "/images/products/Formal Cotton Shirt/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Van Heusen",
+    "rating": 4,
+    "reviewCount": 481,
+    "inStock": true,
+    "stockQuantity": 28,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0017",
+    "name": "Denim Jeans",
+    "description": "Comfortable denim jeans with classic fit and durable construction. Made from quality cotton blend with timeless styling suitable for casual everyday wear.",
+    "price": 1499,
+    "originalPrice": 3697,
+    "images": [
+      "/images/products/Denim Jeans/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Lee",
+    "rating": 4.2,
+    "reviewCount": 1840,
+    "inStock": true,
+    "stockQuantity": 81,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0018",
+    "name": "Cotton T-Shirt",
+    "description": "Soft, breathable cotton t-shirt perfect for sports and casual wear. Features moisture-wicking fabric, comfortable fit, and durable construction for active lifestyles.",
+    "price": 399,
+    "originalPrice": 3659,
+    "images": [
+      "/images/products/Cotton T-Shirt/2.jpg",
+      "/images/products/Cotton T-Shirt/3.jpg",
+      "/images/products/Cotton T-Shirt/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Decathlon",
+    "rating": 4.3,
+    "reviewCount": 2765,
+    "inStock": true,
+    "stockQuantity": 27,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0019",
+    "name": "Silk Saree",
+    "description": "Elegant pure silk saree with traditional Kanjivaram weaving. Features rich colors, intricate zari work, and luxurious drape perfect for special occasions.",
+    "price": 3999,
+    "originalPrice": 9343,
+    "images": [
+      "/images/products/Silk Saree/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Kanjivaram",
+    "rating": 4,
+    "reviewCount": 768,
+    "inStock": true,
+    "stockQuantity": 82,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0020",
+    "name": "Cotton Kurti",
+    "description": "Comfortable cotton kurti with contemporary design and traditional charm. Features breathable fabric, flattering fit, and versatile styling for everyday ethnic wear.",
+    "price": 799,
+    "originalPrice": 6217,
+    "images": [
+      "/images/products/Cotton Kurti/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Libas",
+    "rating": 4.1,
+    "reviewCount": 1091,
+    "inStock": false,
+    "stockQuantity": 103,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0021",
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with cushioned sole and breathable mesh upper. Designed for comfort and performance during jogging, training, and everyday activities.",
+    "price": 2999,
+    "originalPrice": 9387,
+    "images": [
+      "/images/products/Running Shoes/2.jpg",
+      "/images/products/Running Shoes/3.jpg",
+      "/images/products/Running Shoes/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.1,
+    "reviewCount": 2109,
+    "inStock": true,
+    "stockQuantity": 79,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0022",
+    "name": "Cricket Bat",
+    "description": "Professional-grade cricket bat made from premium English willow. Features excellent balance, powerful sweet spot, and traditional craftsmanship for serious players.",
+    "price": 3499,
+    "originalPrice": 10331,
+    "images": [
+      "/images/products/Cricket Bat/main.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "SG",
+    "rating": 4.4,
+    "reviewCount": 1156,
+    "inStock": false,
+    "stockQuantity": 37,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0023",
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with cushioned surface for comfortable practice. Made from eco-friendly materials with excellent grip and durability for all yoga styles.",
+    "price": 799,
+    "originalPrice": 4609,
+    "images": [
+      "/images/products/Yoga Mat/main.jpg",
+      "/images/products/Yoga Mat/p2047064.jpg",
+      "/images/products/Yoga Mat/p2277332.jpg",
+      "/images/products/Yoga Mat/p2277336.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.1,
+    "reviewCount": 2264,
+    "inStock": true,
+    "stockQuantity": 39,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0024",
+    "name": "Dumbbell Set",
+    "description": "Adjustable dumbbell set perfect for home workouts and strength training. Features durable construction, comfortable grip, and versatile weight options for all fitness levels.",
+    "price": 4999,
+    "originalPrice": 7716,
+    "images": [
+      "/images/products/Dumbbell Set/2.jpg",
+      "/images/products/Dumbbell Set/3.jpg",
+      "/images/products/Dumbbell Set/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.2,
+    "reviewCount": 2268,
+    "inStock": true,
+    "stockQuantity": 98,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0025",
+    "name": "Camping Tent",
+    "description": "Spacious camping tent with waterproof design and easy setup. Accommodates multiple people with good ventilation, UV protection, and durable construction for outdoor adventures.",
+    "price": 3999,
+    "originalPrice": 9398,
+    "images": [
+      "/images/products/Camping Tent/1.jpg",
+      "/images/products/Camping Tent/2.jpg",
+      "/images/products/Camping Tent/3.jpg",
+      "/images/products/Camping Tent/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.2,
+    "reviewCount": 1013,
+    "inStock": true,
+    "stockQuantity": 57,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0026",
+    "name": "Coffee Maker",
+    "description": "Automatic drip coffee maker with programmable timer and keep-warm function. Brews perfect coffee every time with easy operation and sleek design for your kitchen.",
+    "price": 2499,
+    "originalPrice": 9058,
+    "images": [
+      "/images/products/Coffee Maker/MAIN.jpg",
+      "/images/products/Coffee Maker/517jnYw4yJL._SX679_.jpg",
+      "/images/products/Coffee Maker/61Co29n18VL._SX679_.jpg",
+      "/images/products/Coffee Maker/61yJNFwNdnL._SX679_.jpg",
+      "/images/products/Coffee Maker/71OxFcrwMsL._SX679_.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4.2,
+    "reviewCount": 3020,
+    "inStock": true,
+    "stockQuantity": 91,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0027",
+    "name": "Microwave Oven",
+    "description": "Versatile microwave oven with multiple cooking modes including grill and convection. Features auto-cook menus, child lock, and energy-efficient operation for modern kitchens.",
+    "price": 5999,
+    "originalPrice": 9762,
+    "images": [
+      "/images/products/Microwave Oven/main.avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (1).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (2).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (3).avif",
+      "/images/products/Microwave Oven/thum-1600x1062.avif"
+    ],
+    "category": "home-garden",
+    "brand": "LG",
+    "rating": 4,
+    "reviewCount": 1678,
+    "inStock": false,
+    "stockQuantity": 98,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0028",
+    "name": "Air Purifier",
+    "description": "Advanced air purifier with HEPA filtration removes 99.97% of airborne particles. Features smart sensors, quiet operation, and coverage for large rooms to ensure clean air.",
+    "price": 8999,
+    "originalPrice": 11032,
+    "images": [
+      "/images/products/Air Purifier/main.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4,
+    "reviewCount": 1665,
+    "inStock": true,
+    "stockQuantity": 43,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0031",
+    "name": "Office Chair",
+    "description": "Ergonomic office chair with adjustable height, lumbar support, and breathable mesh back. Designed for all-day comfort with sturdy construction and smooth-rolling casters.",
+    "price": 7999,
+    "originalPrice": 10148,
+    "images": [
+      "/images/products/Office Chair/main.webp",
+      "/images/products/Office Chair/main.jpg",
+      "/images/products/Office Chair/1.gif",
+      "/images/products/Office Chair/2.svg",
+      "/images/products/Office Chair/3.svg",
+      "/images/products/Office Chair/4.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_1.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_3.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_5.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_8.webp",
+      "/images/products/Office Chair/mega-office-chair.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.3,
+    "reviewCount": 565,
+    "inStock": true,
+    "stockQuantity": 74,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0032",
+    "name": "Study Table",
+    "description": "Functional study table with spacious work surface and storage compartments. Features durable construction, modern design, and perfect dimensions for students and professionals.",
+    "price": 5999,
+    "originalPrice": 8177,
+    "images": [
+      "/images/products/Study Table/main.webp",
+      "/images/products/Study Table/main.jpg",
+      "/images/products/Study Table/1.gif",
+      "/images/products/Study Table/2.svg",
+      "/images/products/Study Table/3.svg",
+      "/images/products/Study Table/4.jpg",
+      "/images/products/Study Table/FLSDSCHOLARSDWLT01.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_02.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_03.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_10.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4,
+    "reviewCount": 539,
+    "inStock": false,
+    "stockQuantity": 17,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0034",
+    "name": "Bookshelf",
+    "description": "Versatile bookshelf with multiple shelves for books, decor, and storage. Features sturdy construction, modern design, and ample space to organize your collection.",
+    "price": 3999,
+    "originalPrice": 9212,
+    "images": [
+      "/images/products/Bookshelf/main.webp",
+      "/images/products/Bookshelf/4.jpg",
+      "/images/products/Bookshelf/A001_42e46b5b-1b6e-4243-955d-31746e40a822.webp",
+      "/images/products/Bookshelf/DSC_3485copy.webp",
+      "/images/products/Bookshelf/DSC_3493copy.webp",
+      "/images/products/Bookshelf/DSC_3500copy.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.2,
+    "reviewCount": 814,
+    "inStock": true,
+    "stockQuantity": 43,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0036",
+    "name": "The Midnight Library",
+    "description": "Bestselling novel by Matt Haig exploring infinite possibilities and second chances. A heartwarming story about life, regret, and the endless possibilities of the universe.",
+    "price": 399,
+    "originalPrice": 6685,
+    "images": [
+      "/images/products/The Midnight Library/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.3,
+    "reviewCount": 2192,
+    "inStock": true,
+    "stockQuantity": 76,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0037",
+    "name": "Indian Cooking Mastery",
+    "description": "Comprehensive guide to authentic Indian cuisine with traditional recipes and modern techniques. Features regional specialties, spice guides, and step-by-step instructions.",
+    "price": 599,
+    "originalPrice": 4853,
+    "images": [
+      "/images/products/Indian Cooking Mastery/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.5,
+    "reviewCount": 115,
+    "inStock": true,
+    "stockQuantity": 93,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0038",
+    "name": "Atomic Habits",
+    "description": "Transformative book by James Clear on building good habits and breaking bad ones. Practical strategies backed by science to create lasting positive change in your life.",
+    "price": 449,
+    "originalPrice": 6799,
+    "images": [
+      "/images/products/Atomic Habits/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4,
+    "reviewCount": 1678,
+    "inStock": true,
+    "stockQuantity": 88,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0039",
+    "name": "The Lean Startup",
+    "description": "Epic historical narrative exploring India's rich past from ancient civilizations to modern times. Comprehensive and engaging account by renowned historian John Keay.",
+    "price": 499,
+    "originalPrice": 3248,
+    "images": [
+      "/images/products/The Lean Startup/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.3,
+    "reviewCount": 606,
+    "inStock": true,
+    "stockQuantity": 42,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0040",
+    "name": "India: A History",
+    "description": "Groundbreaking business book by Eric Ries on building successful startups through validated learning. Essential reading for entrepreneurs and innovators worldwide.",
+    "price": 699,
+    "originalPrice": 3895,
+    "images": [
+      "/images/products/India A History/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.4,
+    "reviewCount": 2938,
+    "inStock": false,
+    "stockQuantity": 28,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0041",
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with active noise cancellation, 6-hour battery life, and IPX4 water resistance. Features touch controls and premium sound quality.",
+    "price": 2999,
+    "originalPrice": 4999,
+    "images": [
+      "/images/products/Wireless Earbuds/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "boAt",
+    "rating": 4.3,
+    "reviewCount": 2456,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "wireless"
+    ]
+  },
+  {
+    "id": "prod-0042",
+    "name": "Fire-Boltt Phoenix Pro Smartwatch",
+    "description": "Fitness smartwatch with heart rate monitoring, GPS tracking, and 7-day battery life. Features multiple sports modes and smartphone notifications.",
+    "price": 3999,
+    "originalPrice": 6999,
+    "images": [
+      "/images/products/Smartwatch/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Fire-Boltt",
+    "rating": 4.1,
+    "reviewCount": 1823,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "fitness",
+      "smartwatch"
+    ]
+  },
+  {
+    "id": "prod-0043",
+    "name": "Power Bank",
+    "description": "20000mAh portable power bank with fast charging support and dual USB ports. Features LED display and compact design for travel convenience.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "images": [
+      "/images/products/Power Bank/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 4.4,
+    "reviewCount": 3421,
+    "inStock": true,
+    "stockQuantity": 89,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "power",
+      "portable"
+    ]
+  },
+  {
+    "id": "prod-0044",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound, waterproof design, and 12-hour battery life. Perfect for outdoor adventures and parties.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "images": [
+      "/images/products/Bluetooth Speaker/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "JBL",
+    "rating": 4.5,
+    "reviewCount": 1567,
+    "inStock": true,
+    "stockQuantity": 34,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "portable"
+    ]
+  },
+  {
+    "id": "prod-0045",
+    "name": "Gaming Mouse",
+    "description": "High-precision gaming mouse with RGB lighting, programmable buttons, and ergonomic design. Features adjustable DPI up to 12000 for competitive gaming.",
+    "price": 1999,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/Gaming Mouse/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Logitech",
+    "rating": 4.3,
+    "reviewCount": 892,
+    "inStock": true,
+    "stockQuantity": 56,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "gaming",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0046",
+    "name": "Wireless Keyboard",
+    "description": "Slim wireless keyboard with backlit keys, long battery life, and quiet typing experience. Compatible with multiple devices via Bluetooth.",
+    "price": 2799,
+    "originalPrice": 4299,
+    "images": [
+      "/images/products/Wireless Keyboard/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Logitech",
+    "rating": 4.2,
+    "reviewCount": 1234,
+    "inStock": true,
+    "stockQuantity": 43,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "keyboard",
+      "wireless"
+    ]
+  },
+  {
+    "id": "prod-0047",
+    "name": "Phone Case",
+    "description": "Premium leather phone case with card slots and magnetic closure. Provides excellent protection while maintaining elegant style and functionality.",
+    "price": 799,
+    "originalPrice": 1499,
+    "images": [
+      "/images/products/Phone Case/main.jpg"
+    ],
+    "category": "accessories",
+    "brand": "Bellroy",
+    "rating": 4.4,
+    "reviewCount": 567,
+    "inStock": true,
+    "stockQuantity": 78,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "accessories",
+      "phone",
+      "protection"
+    ]
+  },
+  {
+    "id": "prod-0048",
+    "name": "Sunglasses",
+    "description": "Polarized sunglasses with UV400 protection and lightweight titanium frame. Features anti-glare coating and stylish design for all-day comfort.",
+    "price": 1999,
+    "originalPrice": 3999,
+    "images": [
+      "/images/products/Sunglasses/main.jpg"
+    ],
+    "category": "accessories",
+    "brand": "Ray-Ban",
+    "rating": 4.6,
+    "reviewCount": 2341,
+    "inStock": true,
+    "stockQuantity": 29,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "accessories",
+      "eyewear",
+      "fashion"
+    ]
+  },
+  {
+    "id": "prod-0049",
+    "name": "Laptop Bag",
+    "description": "Professional laptop backpack with padded compartments, water-resistant material, and multiple pockets. Fits laptops up to 15.6 inches.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "images": [
+      "/images/products/Laptop Bag/71mT-7hxj1L._SX679_.jpg",
+      "/images/products/Laptop Bag/61fFhsdHn4L._SX679_.jpg",
+      "/images/products/Laptop Bag/61jI4jxdGmL._SX679_.jpg",
+      "/images/products/Laptop Bag/61QIbEjtLnL._SX679_.jpg",
+      "/images/products/Laptop Bag/61YYGK-Tj8L._SX679_.jpg",
+      "/images/products/Laptop Bag/71rhfM4uvGL._SX679_.jpg"
+    ],
+    "category": "accessories",
+    "brand": "Targus",
+    "rating": 4.3,
+    "reviewCount": 1456,
+    "inStock": true,
+    "stockQuantity": 52,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "accessories",
+      "laptop",
+      "travel"
+    ]
+  },
+  {
+    "id": "prod-0050",
+    "name": "Watch",
+    "description": "Classic analog watch with stainless steel case, leather strap, and water resistance. Features precise quartz movement and elegant design.",
+    "price": 3999,
+    "originalPrice": 6999,
+    "images": [
+      "/images/products/Watch/main.jpg"
+    ],
+    "category": "accessories",
+    "brand": "Fossil",
+    "rating": 4.4,
+    "reviewCount": 987,
+    "inStock": true,
+    "stockQuantity": 38,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "accessories",
+      "watch",
+      "fashion"
+    ]
+  },
+  {
+    "id": "prod-0052",
+    "name": "Moisturizer",
+    "description": "Hydrating face moisturizer with hyaluronic acid and SPF 30. Provides all-day moisture protection and anti-aging benefits for healthy, glowing skin.",
+    "price": 599,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/Moisturizer/main.jpg"
+    ],
+    "category": "personal",
+    "brand": "Olay",
+    "rating": 4.3,
+    "reviewCount": 1876,
+    "inStock": true,
+    "stockQuantity": 89,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "N/A",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "personal",
+      "skincare",
+      "moisturizing"
+    ]
+  },
+  {
+    "id": "prod-0053",
+    "name": "Shampoo",
+    "description": "Nourishing shampoo with argan oil for dry and damaged hair. Features sulfate-free formula, deep conditioning, and helps restore hair's natural shine.",
+    "price": 399,
+    "originalPrice": 699,
+    "images": [
+      "/images/products/Shampoo/main.jpg"
+    ],
+    "category": "personal",
+    "brand": "L'Oreal",
+    "rating": 4.1,
+    "reviewCount": 3421,
+    "inStock": true,
+    "stockQuantity": 134,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "N/A",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "personal",
+      "haircare",
+      "nourishing"
+    ]
+  },
+  {
+    "id": "prod-0054",
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with multiple cleaning modes, pressure sensor, and 2-minute timer. Includes travel case and replacement brush heads.",
+    "price": 2999,
+    "originalPrice": 4999,
+    "images": [
+      "/images/products/Electric Toothbrush/main.jpg"
+    ],
+    "category": "personal",
+    "brand": "Oral-B",
+    "rating": 4.5,
+    "reviewCount": 1567,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "personal",
+      "dental",
+      "electric"
+    ]
+  },
+  {
+    "id": "prod-0055",
+    "name": "Hair Dryer",
+    "description": "Professional hair dryer with ionic technology, multiple heat settings, and cool shot button. Features lightweight design and fast drying performance.",
+    "price": 1999,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/Hair Dryer/main.jpg"
+    ],
+    "category": "personal",
+    "brand": "Philips",
+    "rating": 4.2,
+    "reviewCount": 892,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "personal",
+      "haircare",
+      "styling"
+    ]
+  },
+  {
+    "id": "prod-0056",
+    "name": "Formal Cotton Shirt v2",
+    "description": "High quality formal cotton shirt with excellent features and durability.",
+    "price": 1799,
+    "originalPrice": 7379,
+    "images": [
+      "/images/products/Formal Cotton Shirt v2/main.jpg",
+      "/images/products/Formal Cotton Shirt v2/1.jpg",
+      "/images/products/Formal Cotton Shirt v2/2.jpg",
+      "/images/products/Formal Cotton Shirt v2/3.jpg",
+      "/images/products/Formal Cotton Shirt v2/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Van Heusen",
+    "rating": 4,
+    "reviewCount": 1550,
+    "inStock": true,
+    "stockQuantity": 13,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0057",
+    "name": "Denim Jeans v2",
+    "description": "High quality denim jeans with excellent features and durability.",
+    "price": 1999,
+    "originalPrice": 7242,
+    "images": [
+      "/images/products/Denim Jeans v2/main.jpg",
+      "/images/products/Denim Jeans v2/1.jpg",
+      "/images/products/Denim Jeans v2/2.jpg",
+      "/images/products/Denim Jeans v2/3.jpg",
+      "/images/products/Denim Jeans v2/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Lee",
+    "rating": 4.1,
+    "reviewCount": 2757,
+    "inStock": true,
+    "stockQuantity": 13,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0058",
+    "name": "Cotton T-Shirt v2",
+    "description": "High quality cotton t-shirt with excellent features and durability.",
+    "price": 899,
+    "originalPrice": 4611,
+    "images": [
+      "/images/products/Cotton T-Shirt v2/main.jpg",
+      "/images/products/Cotton T-Shirt v2/1.jpg",
+      "/images/products/Cotton T-Shirt v2/2.jpg",
+      "/images/products/Cotton T-Shirt v2/3.jpg",
+      "/images/products/Cotton T-Shirt v2/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Decathlon",
+    "rating": 4.4,
+    "reviewCount": 1042,
+    "inStock": true,
+    "stockQuantity": 34,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0059",
+    "name": "Silk Saree v2",
+    "description": "High quality silk saree with excellent features and durability.",
+    "price": 4499,
+    "originalPrice": 9699,
+    "images": [
+      "/images/products/Silk Saree v2/main.jpg",
+      "/images/products/Silk Saree v2/1.jpg",
+      "/images/products/Silk Saree v2/2.jpg",
+      "/images/products/Silk Saree v2/3.jpg",
+      "/images/products/Silk Saree v2/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Kanjivaram",
+    "rating": 4.4,
+    "reviewCount": 1175,
+    "inStock": true,
+    "stockQuantity": 71,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0060",
+    "name": "Cotton Kurti v2",
+    "description": "High quality cotton kurti with excellent features and durability.",
+    "price": 1299,
+    "originalPrice": 5113,
+    "images": [
+      "/images/products/Cotton Kurti/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Libas",
+    "rating": 4.3,
+    "reviewCount": 2217,
+    "inStock": true,
+    "stockQuantity": 26,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0061",
+    "name": "Running Shoes v2",
+    "description": "High quality running shoes with excellent features and durability.",
+    "price": 3499,
+    "originalPrice": 6422,
+    "images": [
+      "/images/products/Running Shoes/2.jpg",
+      "/images/products/Running Shoes/3.jpg",
+      "/images/products/Running Shoes/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.1,
+    "reviewCount": 2726,
+    "inStock": true,
+    "stockQuantity": 65,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0062",
+    "name": "Cricket Bat v2",
+    "description": "High quality cricket bat with excellent features and durability.",
+    "price": 3999,
+    "originalPrice": 9078,
+    "images": [
+      "/images/products/Cricket Bat/main.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "SG",
+    "rating": 4,
+    "reviewCount": 2659,
+    "inStock": true,
+    "stockQuantity": 58,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0063",
+    "name": "Yoga Mat v2",
+    "description": "High quality yoga mat with excellent features and durability.",
+    "price": 1299,
+    "originalPrice": 3783,
+    "images": [
+      "/images/products/Yoga Mat/main.jpg",
+      "/images/products/Yoga Mat/p2047064.jpg",
+      "/images/products/Yoga Mat/p2277332.jpg",
+      "/images/products/Yoga Mat/p2277336.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.4,
+    "reviewCount": 2229,
+    "inStock": false,
+    "stockQuantity": 50,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0064",
+    "name": "Dumbbell Set v2",
+    "description": "High quality dumbbell set with excellent features and durability.",
+    "price": 5499,
+    "originalPrice": 11183,
+    "images": [
+      "/images/products/Dumbbell Set/2.jpg",
+      "/images/products/Dumbbell Set/3.jpg",
+      "/images/products/Dumbbell Set/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.2,
+    "reviewCount": 2110,
+    "inStock": true,
+    "stockQuantity": 18,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0065",
+    "name": "Camping Tent v2",
+    "description": "High quality camping tent with excellent features and durability.",
+    "price": 4499,
+    "originalPrice": 9001,
+    "images": [
+      "/images/products/Camping Tent/1.jpg",
+      "/images/products/Camping Tent/2.jpg",
+      "/images/products/Camping Tent/3.jpg",
+      "/images/products/Camping Tent/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.4,
+    "reviewCount": 1593,
+    "inStock": true,
+    "stockQuantity": 101,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0066",
+    "name": "Coffee Maker v2",
+    "description": "High quality coffee maker with excellent features and durability.",
+    "price": 2999,
+    "originalPrice": 7611,
+    "images": [
+      "/images/products/Coffee Maker/MAIN.jpg",
+      "/images/products/Coffee Maker/517jnYw4yJL._SX679_.jpg",
+      "/images/products/Coffee Maker/61Co29n18VL._SX679_.jpg",
+      "/images/products/Coffee Maker/61yJNFwNdnL._SX679_.jpg",
+      "/images/products/Coffee Maker/71OxFcrwMsL._SX679_.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4,
+    "reviewCount": 2398,
+    "inStock": true,
+    "stockQuantity": 50,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0067",
+    "name": "Microwave Oven v2",
+    "description": "High quality microwave oven with excellent features and durability.",
+    "price": 6499,
+    "originalPrice": 10971,
+    "images": [
+      "/images/products/Microwave Oven/main.avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (1).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (2).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (3).avif",
+      "/images/products/Microwave Oven/thum-1600x1062.avif"
+    ],
+    "category": "home-garden",
+    "brand": "LG",
+    "rating": 4,
+    "reviewCount": 540,
+    "inStock": true,
+    "stockQuantity": 12,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0068",
+    "name": "Air Purifier v2",
+    "description": "High quality air purifier with excellent features and durability.",
+    "price": 9499,
+    "originalPrice": 15334,
+    "images": [
+      "/images/products/Air Purifier/main.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4.1,
+    "reviewCount": 598,
+    "inStock": true,
+    "stockQuantity": 47,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0071",
+    "name": "Office Chair v2",
+    "description": "High quality office chair with excellent features and durability.",
+    "price": 8499,
+    "originalPrice": 12859,
+    "images": [
+      "/images/products/Office Chair/main.webp",
+      "/images/products/Office Chair/main.jpg",
+      "/images/products/Office Chair/1.gif",
+      "/images/products/Office Chair/2.svg",
+      "/images/products/Office Chair/3.svg",
+      "/images/products/Office Chair/4.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_1.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_3.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_5.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_8.webp",
+      "/images/products/Office Chair/mega-office-chair.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.1,
+    "reviewCount": 1493,
+    "inStock": true,
+    "stockQuantity": 52,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0072",
+    "name": "Study Table v2",
+    "description": "High quality study table with excellent features and durability.",
+    "price": 6499,
+    "originalPrice": 12431,
+    "images": [
+      "/images/products/Study Table/main.webp",
+      "/images/products/Study Table/main.jpg",
+      "/images/products/Study Table/1.gif",
+      "/images/products/Study Table/2.svg",
+      "/images/products/Study Table/3.svg",
+      "/images/products/Study Table/4.jpg",
+      "/images/products/Study Table/FLSDSCHOLARSDWLT01.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_02.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_03.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_10.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.1,
+    "reviewCount": 908,
+    "inStock": true,
+    "stockQuantity": 94,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0074",
+    "name": "Bookshelf v2",
+    "description": "High quality bookshelf with excellent features and durability.",
+    "price": 4499,
+    "originalPrice": 10346,
+    "images": [
+      "/images/products/Bookshelf/main.webp",
+      "/images/products/Bookshelf/4.jpg",
+      "/images/products/Bookshelf/A001_42e46b5b-1b6e-4243-955d-31746e40a822.webp",
+      "/images/products/Bookshelf/DSC_3485copy.webp",
+      "/images/products/Bookshelf/DSC_3493copy.webp",
+      "/images/products/Bookshelf/DSC_3500copy.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.1,
+    "reviewCount": 2383,
+    "inStock": true,
+    "stockQuantity": 14,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0076",
+    "name": "The Midnight Library v2",
+    "description": "High quality the midnight library with excellent features and durability.",
+    "price": 899,
+    "originalPrice": 3664,
+    "images": [
+      "/images/products/The Midnight Library/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.4,
+    "reviewCount": 1630,
+    "inStock": true,
+    "stockQuantity": 31,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0077",
+    "name": "Indian Cooking Mastery v2",
+    "description": "High quality indian cooking mastery with excellent features and durability.",
+    "price": 1099,
+    "originalPrice": 4425,
+    "images": [
+      "/images/products/Indian Cooking Mastery/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.2,
+    "reviewCount": 2895,
+    "inStock": true,
+    "stockQuantity": 54,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0078",
+    "name": "Atomic Habits v2",
+    "description": "High quality atomic habits with excellent features and durability.",
+    "price": 949,
+    "originalPrice": 7116,
+    "images": [
+      "/images/products/Atomic Habits/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.4,
+    "reviewCount": 1881,
+    "inStock": true,
+    "stockQuantity": 22,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0079",
+    "name": "The Lean Startup v2",
+    "description": "High quality the lean startup with excellent features and durability.",
+    "price": 999,
+    "originalPrice": 5396,
+    "images": [
+      "/images/products/The Lean Startup/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.2,
+    "reviewCount": 2376,
+    "inStock": true,
+    "stockQuantity": 9,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0080",
+    "name": "India: A History v2",
+    "description": "High quality india: a history with excellent features and durability.",
+    "price": 1199,
+    "originalPrice": 5877,
+    "images": [
+      "/images/products/India A History/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.3,
+    "reviewCount": 455,
+    "inStock": true,
+    "stockQuantity": 70,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0096",
+    "name": "Formal Cotton Shirt v3",
+    "description": "High quality formal cotton shirt with excellent features and durability.",
+    "price": 2299,
+    "originalPrice": 6914,
+    "images": [
+      "/images/products/Formal Cotton Shirt v3/main.jpg",
+      "/images/products/Formal Cotton Shirt v3/1.jpg",
+      "/images/products/Formal Cotton Shirt v3/2.jpg",
+      "/images/products/Formal Cotton Shirt v3/3.jpg",
+      "/images/products/Formal Cotton Shirt v3/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Van Heusen",
+    "rating": 4.4,
+    "reviewCount": 2603,
+    "inStock": false,
+    "stockQuantity": 81,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0097",
+    "name": "Denim Jeans v3",
+    "description": "High quality denim jeans with excellent features and durability.",
+    "price": 2499,
+    "originalPrice": 4866,
+    "images": [
+      "/images/products/Denim Jeans/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Lee",
+    "rating": 4.3,
+    "reviewCount": 857,
+    "inStock": true,
+    "stockQuantity": 39,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0098",
+    "name": "Cotton T-Shirt v3",
+    "description": "High quality cotton t-shirt with excellent features and durability.",
+    "price": 1399,
+    "originalPrice": 6262,
+    "images": [
+      "/images/products/Cotton T-Shirt v3/main.jpg",
+      "/images/products/Cotton T-Shirt v3/1.jpg",
+      "/images/products/Cotton T-Shirt v3/2.jpg",
+      "/images/products/Cotton T-Shirt v3/3.jpg",
+      "/images/products/Cotton T-Shirt v3/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Decathlon",
+    "rating": 4.1,
+    "reviewCount": 1444,
+    "inStock": true,
+    "stockQuantity": 83,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0099",
+    "name": "Silk Saree v3",
+    "description": "High quality silk saree with excellent features and durability.",
+    "price": 4999,
+    "originalPrice": 10425,
+    "images": [
+      "/images/products/Silk Saree v3/main.jpg",
+      "/images/products/Silk Saree v3/1.jpg",
+      "/images/products/Silk Saree v3/2.jpg",
+      "/images/products/Silk Saree v3/3.jpg",
+      "/images/products/Silk Saree v3/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Kanjivaram",
+    "rating": 4.3,
+    "reviewCount": 2322,
+    "inStock": true,
+    "stockQuantity": 80,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0100",
+    "name": "Cotton Kurti v3",
+    "description": "High quality cotton kurti with excellent features and durability.",
+    "price": 1799,
+    "originalPrice": 4061,
+    "images": [
+      "/images/products/Cotton Kurti/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Libas",
+    "rating": 4.3,
+    "reviewCount": 853,
+    "inStock": true,
+    "stockQuantity": 64,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0101",
+    "name": "Running Shoes v3",
+    "description": "High quality running shoes with excellent features and durability.",
+    "price": 3999,
+    "originalPrice": 8861,
+    "images": [
+      "/images/products/Running Shoes/2.jpg",
+      "/images/products/Running Shoes/3.jpg",
+      "/images/products/Running Shoes/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.2,
+    "reviewCount": 2553,
+    "inStock": true,
+    "stockQuantity": 54,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0102",
+    "name": "Cricket Bat v3",
+    "description": "High quality cricket bat with excellent features and durability.",
+    "price": 4499,
+    "originalPrice": 10440,
+    "images": [
+      "/images/products/Cricket Bat/main.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "SG",
+    "rating": 4.3,
+    "reviewCount": 2280,
+    "inStock": true,
+    "stockQuantity": 48,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0103",
+    "name": "Yoga Mat v3",
+    "description": "High quality yoga mat with excellent features and durability.",
+    "price": 1799,
+    "originalPrice": 8731,
+    "images": [
+      "/images/products/Yoga Mat/main.jpg",
+      "/images/products/Yoga Mat/p2047064.jpg",
+      "/images/products/Yoga Mat/p2277332.jpg",
+      "/images/products/Yoga Mat/p2277336.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.1,
+    "reviewCount": 3096,
+    "inStock": true,
+    "stockQuantity": 11,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0104",
+    "name": "Dumbbell Set v3",
+    "description": "High quality dumbbell set with excellent features and durability.",
+    "price": 5999,
+    "originalPrice": 8213,
+    "images": [
+      "/images/products/Dumbbell Set/2.jpg",
+      "/images/products/Dumbbell Set/3.jpg",
+      "/images/products/Dumbbell Set/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.3,
+    "reviewCount": 2090,
+    "inStock": true,
+    "stockQuantity": 69,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0105",
+    "name": "Camping Tent v3",
+    "description": "High quality camping tent with excellent features and durability.",
+    "price": 4999,
+    "originalPrice": 10444,
+    "images": [
+      "/images/products/Camping Tent/1.jpg",
+      "/images/products/Camping Tent/2.jpg",
+      "/images/products/Camping Tent/3.jpg",
+      "/images/products/Camping Tent/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.2,
+    "reviewCount": 663,
+    "inStock": true,
+    "stockQuantity": 53,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0106",
+    "name": "Coffee Maker v3",
+    "description": "High quality coffee maker with excellent features and durability.",
+    "price": 3499,
+    "originalPrice": 6188,
+    "images": [
+      "/images/products/Coffee Maker/MAIN.jpg",
+      "/images/products/Coffee Maker/517jnYw4yJL._SX679_.jpg",
+      "/images/products/Coffee Maker/61Co29n18VL._SX679_.jpg",
+      "/images/products/Coffee Maker/61yJNFwNdnL._SX679_.jpg",
+      "/images/products/Coffee Maker/71OxFcrwMsL._SX679_.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4.2,
+    "reviewCount": 905,
+    "inStock": true,
+    "stockQuantity": 39,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0107",
+    "name": "Microwave Oven v3",
+    "description": "High quality microwave oven with excellent features and durability.",
+    "price": 6999,
+    "originalPrice": 10353,
+    "images": [
+      "/images/products/Microwave Oven/main.avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (1).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (2).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (3).avif",
+      "/images/products/Microwave Oven/thum-1600x1062.avif"
+    ],
+    "category": "home-garden",
+    "brand": "LG",
+    "rating": 4.2,
+    "reviewCount": 246,
+    "inStock": true,
+    "stockQuantity": 46,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0108",
+    "name": "Air Purifier v3",
+    "description": "High quality air purifier with excellent features and durability.",
+    "price": 9999,
+    "originalPrice": 16346,
+    "images": [
+      "/images/products/Air Purifier/main.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4.3,
+    "reviewCount": 3035,
+    "inStock": true,
+    "stockQuantity": 58,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0111",
+    "name": "Office Chair v3",
+    "description": "High quality office chair with excellent features and durability.",
+    "price": 8999,
+    "originalPrice": 11415,
+    "images": [
+      "/images/products/Office Chair/main.webp",
+      "/images/products/Office Chair/main.jpg",
+      "/images/products/Office Chair/1.gif",
+      "/images/products/Office Chair/2.svg",
+      "/images/products/Office Chair/3.svg",
+      "/images/products/Office Chair/4.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_1.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_3.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_5.webp",
+      "/images/products/Office Chair/LMEGAHIBOFFCHRBRN_8.webp",
+      "/images/products/Office Chair/mega-office-chair.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.5,
+    "reviewCount": 788,
+    "inStock": true,
+    "stockQuantity": 58,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0112",
+    "name": "Study Table v3",
+    "description": "High quality study table with excellent features and durability.",
+    "price": 6999,
+    "originalPrice": 13578,
+    "images": [
+      "/images/products/Study Table/main.webp",
+      "/images/products/Study Table/main.jpg",
+      "/images/products/Study Table/1.gif",
+      "/images/products/Study Table/2.svg",
+      "/images/products/Study Table/3.svg",
+      "/images/products/Study Table/4.jpg",
+      "/images/products/Study Table/FLSDSCHOLARSDWLT01.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_02.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_03.webp",
+      "/images/products/Study Table/SCHOLAR-STUDY-DESK-WALNUT_FLSDSCHOLARSDWLT_10.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4.3,
+    "reviewCount": 2523,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0114",
+    "name": "Bookshelf v3",
+    "description": "High quality bookshelf with excellent features and durability.",
+    "price": 4999,
+    "originalPrice": 8963,
+    "images": [
+      "/images/products/Bookshelf/main.webp",
+      "/images/products/Bookshelf/4.jpg",
+      "/images/products/Bookshelf/A001_42e46b5b-1b6e-4243-955d-31746e40a822.webp",
+      "/images/products/Bookshelf/DSC_3485copy.webp",
+      "/images/products/Bookshelf/DSC_3493copy.webp",
+      "/images/products/Bookshelf/DSC_3500copy.webp"
+    ],
+    "category": "home-garden",
+    "brand": "Nilkamal",
+    "rating": 4,
+    "reviewCount": 3026,
+    "inStock": true,
+    "stockQuantity": 61,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0116",
+    "name": "The Midnight Library v3",
+    "description": "High quality the midnight library with excellent features and durability.",
+    "price": 1399,
+    "originalPrice": 6794,
+    "images": [
+      "/images/products/The Midnight Library/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4,
+    "reviewCount": 2955,
+    "inStock": true,
+    "stockQuantity": 71,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0117",
+    "name": "Indian Cooking Mastery v3",
+    "description": "High quality indian cooking mastery with excellent features and durability.",
+    "price": 1599,
+    "originalPrice": 3906,
+    "images": [
+      "/images/products/Indian Cooking Mastery/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.3,
+    "reviewCount": 1915,
+    "inStock": true,
+    "stockQuantity": 27,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0118",
+    "name": "Atomic Habits v3",
+    "description": "High quality atomic habits with excellent features and durability.",
+    "price": 1449,
+    "originalPrice": 6779,
+    "images": [
+      "/images/products/Atomic Habits/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.5,
+    "reviewCount": 2688,
+    "inStock": true,
+    "stockQuantity": 87,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0119",
+    "name": "The Lean Startup v3",
+    "description": "High quality the lean startup with excellent features and durability.",
+    "price": 1499,
+    "originalPrice": 8208,
+    "images": [
+      "/images/products/The Lean Startup/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.5,
+    "reviewCount": 2664,
+    "inStock": false,
+    "stockQuantity": 63,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0120",
+    "name": "India: A History v3",
+    "description": "High quality india: a history with excellent features and durability.",
+    "price": 1699,
+    "originalPrice": 8190,
+    "images": [
+      "/images/products/India A History/main.jpg"
+    ],
+    "category": "books-media",
+    "brand": "Penguin",
+    "rating": 4.3,
+    "reviewCount": 1509,
+    "inStock": true,
+    "stockQuantity": 72,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "books",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0136",
+    "name": "Formal Cotton Shirt v4",
+    "description": "High quality formal cotton shirt with excellent features and durability.",
+    "price": 2799,
+    "originalPrice": 8014,
+    "images": [
+      "/images/products/Formal Cotton Shirt v4/main.jpg",
+      "/images/products/Formal Cotton Shirt v4/1.jpg",
+      "/images/products/Formal Cotton Shirt v4/2.jpg",
+      "/images/products/Formal Cotton Shirt v4/3.jpg",
+      "/images/products/Formal Cotton Shirt v4/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Van Heusen",
+    "rating": 4,
+    "reviewCount": 941,
+    "inStock": true,
+    "stockQuantity": 82,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0137",
+    "name": "Denim Jeans v4",
+    "description": "High quality denim jeans with excellent features and durability.",
+    "price": 2999,
+    "originalPrice": 6909,
+    "images": [
+      "/images/products/Denim Jeans/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Lee",
+    "rating": 4.2,
+    "reviewCount": 2409,
+    "inStock": true,
+    "stockQuantity": 103,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0138",
+    "name": "Cotton T-Shirt v4",
+    "description": "High quality cotton t-shirt with excellent features and durability.",
+    "price": 1899,
+    "originalPrice": 6036,
+    "images": [
+      "/images/products/Cotton T-Shirt/2.jpg",
+      "/images/products/Cotton T-Shirt/3.jpg",
+      "/images/products/Cotton T-Shirt/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Decathlon",
+    "rating": 4.5,
+    "reviewCount": 2707,
+    "inStock": true,
+    "stockQuantity": 56,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0139",
+    "name": "Silk Saree v4",
+    "description": "High quality silk saree with excellent features and durability.",
+    "price": 5499,
+    "originalPrice": 9623,
+    "images": [
+      "/images/products/Silk Saree v4/main.jpg",
+      "/images/products/Silk Saree v4/1.jpg",
+      "/images/products/Silk Saree v4/2.jpg",
+      "/images/products/Silk Saree v4/3.jpg",
+      "/images/products/Silk Saree v4/4.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Kanjivaram",
+    "rating": 4,
+    "reviewCount": 1012,
+    "inStock": true,
+    "stockQuantity": 98,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0140",
+    "name": "Cotton Kurti v4",
+    "description": "High quality cotton kurti with excellent features and durability.",
+    "price": 2299,
+    "originalPrice": 4313,
+    "images": [
+      "/images/products/Cotton Kurti/main.jpg"
+    ],
+    "category": "clothing",
+    "brand": "Libas",
+    "rating": 4.5,
+    "reviewCount": 2702,
+    "inStock": true,
+    "stockQuantity": 21,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "clothing",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0141",
+    "name": "Running Shoes v4",
+    "description": "High quality running shoes with excellent features and durability.",
+    "price": 4499,
+    "originalPrice": 7938,
+    "images": [
+      "/images/products/Running Shoes/2.jpg",
+      "/images/products/Running Shoes/3.jpg",
+      "/images/products/Running Shoes/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.3,
+    "reviewCount": 2209,
+    "inStock": true,
+    "stockQuantity": 9,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0142",
+    "name": "Cricket Bat v4",
+    "description": "High quality cricket bat with excellent features and durability.",
+    "price": 4999,
+    "originalPrice": 10368,
+    "images": [
+      "/images/products/Cricket Bat/main.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "SG",
+    "rating": 4.1,
+    "reviewCount": 2569,
+    "inStock": true,
+    "stockQuantity": 61,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0143",
+    "name": "Yoga Mat v4",
+    "description": "High quality yoga mat with excellent features and durability.",
+    "price": 2299,
+    "originalPrice": 6346,
+    "images": [
+      "/images/products/Yoga Mat/main.jpg",
+      "/images/products/Yoga Mat/p2047064.jpg",
+      "/images/products/Yoga Mat/p2277332.jpg",
+      "/images/products/Yoga Mat/p2277336.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.4,
+    "reviewCount": 627,
+    "inStock": true,
+    "stockQuantity": 13,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0144",
+    "name": "Dumbbell Set v4",
+    "description": "High quality dumbbell set with excellent features and durability.",
+    "price": 6499,
+    "originalPrice": 11012,
+    "images": [
+      "/images/products/Dumbbell Set/2.jpg",
+      "/images/products/Dumbbell Set/3.jpg",
+      "/images/products/Dumbbell Set/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.1,
+    "reviewCount": 1401,
+    "inStock": false,
+    "stockQuantity": 65,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0145",
+    "name": "Camping Tent v4",
+    "description": "High quality camping tent with excellent features and durability.",
+    "price": 5499,
+    "originalPrice": 8522,
+    "images": [
+      "/images/products/Camping Tent/1.jpg",
+      "/images/products/Camping Tent/2.jpg",
+      "/images/products/Camping Tent/3.jpg",
+      "/images/products/Camping Tent/4.jpg"
+    ],
+    "category": "sports-outdoors",
+    "brand": "Decathlon",
+    "rating": 4.5,
+    "reviewCount": 553,
+    "inStock": true,
+    "stockQuantity": 88,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "sports",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0146",
+    "name": "Coffee Maker v4",
+    "description": "High quality coffee maker with excellent features and durability.",
+    "price": 3999,
+    "originalPrice": 6207,
+    "images": [
+      "/images/products/Coffee Maker/MAIN.jpg",
+      "/images/products/Coffee Maker/517jnYw4yJL._SX679_.jpg",
+      "/images/products/Coffee Maker/61Co29n18VL._SX679_.jpg",
+      "/images/products/Coffee Maker/61yJNFwNdnL._SX679_.jpg",
+      "/images/products/Coffee Maker/71OxFcrwMsL._SX679_.jpg"
+    ],
+    "category": "home-garden",
+    "brand": "Philips",
+    "rating": 4.1,
+    "reviewCount": 285,
+    "inStock": true,
+    "stockQuantity": 92,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0147",
+    "name": "Microwave Oven v4",
+    "description": "High quality microwave oven with excellent features and durability.",
+    "price": 7499,
+    "originalPrice": 11545,
+    "images": [
+      "/images/products/Microwave Oven/main.avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (1).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (2).avif",
+      "/images/products/Microwave Oven/thum-1600x1062 (3).avif",
+      "/images/products/Microwave Oven/thum-1600x1062.avif"
+    ],
+    "category": "home-garden",
+    "brand": "LG",
+    "rating": 4.2,
+    "reviewCount": 130,
+    "inStock": true,
+    "stockQuantity": 94,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1-2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "home",
+      "quality",
+      "india"
+    ]
+  },
+  {
+    "id": "prod-0148",
+    "name": "boAt Airdopes 131 TWS Earbuds",
+    "description": "True wireless earbuds with 60H playtime, BEAST mode for low latency gaming, IPX4 water resistance, and instant voice assistant access.",
+    "price": 1299,
+    "originalPrice": 2990,
+    "images": [
+      "/images/products/boAt Airdopes 131 TWS Earbuds/main.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/1.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/2.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/3.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/4.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "boAt",
+    "rating": 4.1,
+    "reviewCount": 15420,
+    "inStock": true,
+    "stockQuantity": 85,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "wireless",
+      "earbuds"
+    ]
+  },
+  {
+    "id": "prod-0149",
+    "name": "Realme Buds Air 3 Neo",
+    "description": "Wireless earbuds with 30H total playback, fast charging, AI ENC for calls, and 10mm dynamic bass boost driver for immersive sound.",
+    "price": 1799,
+    "originalPrice": 2999,
+    "images": [
+      "/images/products/Realme Buds Air 3 Neo/main.jpg",
+      "/images/products/Realme Buds Air 3 Neo/1.jpg",
+      "/images/products/Realme Buds Air 3 Neo/2.jpg",
+      "/images/products/Realme Buds Air 3 Neo/3.jpg",
+      "/images/products/Realme Buds Air 3 Neo/4.jpg",
+      "/images/products/Realme Buds Air 3 Neo/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Realme",
+    "rating": 4.2,
+    "reviewCount": 8934,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "wireless",
+      "earbuds"
+    ]
+  },
+  {
+    "id": "prod-0150",
+    "name": "Mi 10000mAh Power Bank 3i",
+    "description": "Fast charging power bank with 18W fast charging, dual USB output, 10000mAh capacity, and 12-layer circuit protection for safe charging.",
+    "price": 999,
+    "originalPrice": 1499,
+    "images": [
+      "/images/products/Mi 10000mAh Power Bank 3i/main.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/1.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/2.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/3.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/4.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 4.3,
+    "reviewCount": 25678,
+    "inStock": true,
+    "stockQuantity": 120,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "power",
+      "portable",
+      "charging"
+    ]
+  },
+  {
+    "id": "prod-0151",
+    "name": "Portronics Konnect L 1.2M USB Cable",
+    "description": "Fast charging USB Type-C cable with 3A current support, data sync capability, durable braided design, and universal compatibility.",
+    "price": 349,
+    "originalPrice": 699,
+    "images": [
+      "/images/products/Portronics Konnect L 1.2M USB Cable/main.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/1.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/2.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/3.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/4.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Portronics",
+    "rating": 4,
+    "reviewCount": 3456,
+    "inStock": true,
+    "stockQuantity": 200,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "cable",
+      "charging",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0152",
+    "name": "Ambrane 20W Fast Charger",
+    "description": "20W USB-C PD fast charger with universal compatibility, compact design, multiple safety protections, and efficient charging technology.",
+    "price": 599,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/Ambrane 20W Fast Charger/main.jpg",
+      "/images/products/Ambrane 20W Fast Charger/1.jpg",
+      "/images/products/Ambrane 20W Fast Charger/2.jpg",
+      "/images/products/Ambrane 20W Fast Charger/3.jpg",
+      "/images/products/Ambrane 20W Fast Charger/4.jpg",
+      "/images/products/Ambrane 20W Fast Charger/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Ambrane",
+    "rating": 4.1,
+    "reviewCount": 5678,
+    "inStock": true,
+    "stockQuantity": 95,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "charger",
+      "fast charging",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0153",
+    "name": "Zebronics Zeb-Sound Bomb 1 Speaker",
+    "description": "Portable Bluetooth speaker with 5W output, 6H playtime, FM radio, AUX input, and compact design perfect for outdoor activities.",
+    "price": 799,
+    "originalPrice": 1299,
+    "images": [
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/main.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/1.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/2.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/3.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/4.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Zebronics",
+    "rating": 3.9,
+    "reviewCount": 4321,
+    "inStock": true,
+    "stockQuantity": 78,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "speaker",
+      "portable"
+    ]
+  },
+  {
+    "id": "prod-0154",
+    "name": "Noise ColorFit Pro 4 Alpha Smartwatch",
+    "description": "Advanced smartwatch with 1.78\" AMOLED display, 60Hz refresh rate, 100+ sports modes, health monitoring, and 7-day battery life.",
+    "price": 4999,
+    "originalPrice": 7999,
+    "images": [
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/main.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/1.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/2.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/3.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/4.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Noise",
+    "rating": 4.2,
+    "reviewCount": 12456,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartwatch",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "prod-0155",
+    "name": "Fire-Boltt Phoenix Pro Smartwatch",
+    "description": "Premium smartwatch with 1.39\" HD display, Bluetooth calling, 120+ sports modes, SpO2 monitoring, and IP67 water resistance.",
+    "price": 2999,
+    "originalPrice": 5999,
+    "images": [
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/main.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/1.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/2.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/3.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/4.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Fire-Boltt",
+    "rating": 4,
+    "reviewCount": 18765,
+    "inStock": true,
+    "stockQuantity": 62,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartwatch",
+      "fitness",
+      "calling"
+    ]
+  },
+  {
+    "id": "prod-0156",
+    "name": "Redgear A-15 Wired Gaming Headset",
+    "description": "Professional gaming headset with 7.1 surround sound, noise-canceling microphone, RGB lighting, and comfortable over-ear design.",
+    "price": 1599,
+    "originalPrice": 2999,
+    "images": [
+      "/images/products/Redgear A-15 Wired Gaming Headset/main.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/1.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/2.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/3.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/4.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Redgear",
+    "rating": 4.1,
+    "reviewCount": 7890,
+    "inStock": true,
+    "stockQuantity": 55,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "gaming",
+      "headset",
+      "audio"
+    ]
+  },
+  {
+    "id": "prod-0157",
+    "name": "Logitech B175 Wireless Mouse",
+    "description": "Reliable wireless mouse with 12-month battery life, plug-and-play setup, comfortable design, and precise optical tracking.",
+    "price": 895,
+    "originalPrice": 1295,
+    "images": [
+      "/images/products/Logitech B175 Wireless Mouse/main.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/1.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/2.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/3.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/4.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Logitech",
+    "rating": 4.2,
+    "reviewCount": 9876,
+    "inStock": true,
+    "stockQuantity": 89,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "3 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "mouse",
+      "wireless",
+      "computer"
+    ]
+  },
+  {
+    "id": "prod-0158",
+    "name": "HP 32GB USB 3.0 Flash Drive",
+    "description": "High-speed USB 3.0 flash drive with 32GB storage, compact metal design, fast data transfer, and universal compatibility.",
+    "price": 649,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/HP 32GB USB 3.0 Flash Drive/main.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/1.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/2.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/3.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/4.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "HP",
+    "rating": 4,
+    "reviewCount": 5432,
+    "inStock": true,
+    "stockQuantity": 150,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "5 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "storage",
+      "usb",
+      "data"
+    ]
+  },
+  {
+    "id": "prod-0159",
+    "name": "Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo",
+    "description": "Wireless keyboard and mouse combo with 2.4GHz connectivity, spill-resistant keyboard, optical mouse, and long battery life.",
+    "price": 1299,
+    "originalPrice": 1999,
+    "images": [
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/main.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/1.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/2.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/3.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/4.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Quantum",
+    "rating": 3.8,
+    "reviewCount": 3456,
+    "inStock": true,
+    "stockQuantity": 72,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "keyboard",
+      "mouse",
+      "combo"
+    ]
+  },
+  {
+    "id": "prod-0160",
+    "name": "Portronics Toad 20 Car Charger",
+    "description": "Dual USB car charger with 3.4A output, smart charging technology, LED indicator, and compact design for all vehicles.",
+    "price": 399,
+    "originalPrice": 699,
+    "images": [
+      "/images/products/Portronics Toad 20 Car Charger/main.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/1.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/2.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/3.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/4.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Portronics",
+    "rating": 4,
+    "reviewCount": 2345,
+    "inStock": true,
+    "stockQuantity": 110,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "charger",
+      "car",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0161",
+    "name": "Syska 10000mAh Power Bank",
+    "description": "Compact power bank with 10000mAh capacity, dual USB output, LED indicators, and multiple safety protections for reliable charging.",
+    "price": 899,
+    "originalPrice": 1499,
+    "images": [
+      "/images/products/Syska 10000mAh Power Bank/main.jpg",
+      "/images/products/Syska 10000mAh Power Bank/1.jpg",
+      "/images/products/Syska 10000mAh Power Bank/2.jpg",
+      "/images/products/Syska 10000mAh Power Bank/3.jpg",
+      "/images/products/Syska 10000mAh Power Bank/4.jpg",
+      "/images/products/Syska 10000mAh Power Bank/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Syska",
+    "rating": 4.1,
+    "reviewCount": 6789,
+    "inStock": true,
+    "stockQuantity": 88,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "power",
+      "portable",
+      "charging"
+    ]
+  },
+  {
+    "id": "prod-0162",
+    "name": "Intex IT-2202 SUF OS 2.1 Computer Speakers",
+    "description": "2.1 multimedia speakers with subwoofer, 25W RMS output, volume control, bass control, and 3.5mm audio input for computers.",
+    "price": 1199,
+    "originalPrice": 1799,
+    "images": [
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/main.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/1.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/2.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/3.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/4.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Intex",
+    "rating": 3.9,
+    "reviewCount": 4567,
+    "inStock": true,
+    "stockQuantity": 65,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "speakers",
+      "computer",
+      "audio"
+    ]
+  },
+  {
+    "id": "prod-0163",
+    "name": "Redmi A3",
+    "description": "Budget smartphone with 6.71\" HD+ display, MediaTek Helio G36 processor, 5000mAh battery, dual rear camera, and Android 14 Go edition.",
+    "price": 7299,
+    "originalPrice": 8999,
+    "images": [
+      "/images/products/Redmi A3/main.jpg",
+      "/images/products/Redmi A3/1.jpg",
+      "/images/products/Redmi A3/2.jpg",
+      "/images/products/Redmi A3/3.jpg",
+      "/images/products/Redmi A3/4.jpg",
+      "/images/products/Redmi A3/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Xiaomi",
+    "rating": 4,
+    "reviewCount": 8945,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "budget",
+      "android"
+    ]
+  },
+  {
+    "id": "prod-0164",
+    "name": "Samsung Galaxy M04",
+    "description": "Entry-level smartphone with 6.5\" HD+ display, MediaTek Helio P35 processor, 5000mAh battery, dual camera setup, and One UI Core.",
+    "price": 8499,
+    "originalPrice": 9999,
+    "images": [
+      "/images/products/Samsung Galaxy M04/main.jpg",
+      "/images/products/Samsung Galaxy M04/1.jpg",
+      "/images/products/Samsung Galaxy M04/2.jpg",
+      "/images/products/Samsung Galaxy M04/3.jpg",
+      "/images/products/Samsung Galaxy M04/4.jpg",
+      "/images/products/Samsung Galaxy M04/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Samsung",
+    "rating": 3.9,
+    "reviewCount": 6734,
+    "inStock": true,
+    "stockQuantity": 32,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "samsung",
+      "android"
+    ]
+  },
+  {
+    "id": "prod-0165",
+    "name": "Realme C55",
+    "description": "Stylish smartphone with 6.72\" FHD+ display, MediaTek Helio G88 processor, 5000mAh battery, 64MP AI camera, and realme UI 4.0.",
+    "price": 9999,
+    "originalPrice": 12999,
+    "images": [
+      "/images/products/Realme C55/main.jpg",
+      "/images/products/Realme C55/1.jpg",
+      "/images/products/Realme C55/2.jpg",
+      "/images/products/Realme C55/3.jpg",
+      "/images/products/Realme C55/4.jpg",
+      "/images/products/Realme C55/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Realme",
+    "rating": 4.1,
+    "reviewCount": 12456,
+    "inStock": true,
+    "stockQuantity": 28,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "realme",
+      "camera"
+    ]
+  },
+  {
+    "id": "prod-0166",
+    "name": "POCO C65",
+    "description": "Performance-focused smartphone with 6.74\" HD+ display, MediaTek Helio G85 processor, 5000mAh battery, 50MP camera, and MIUI 14.",
+    "price": 8999,
+    "originalPrice": 10999,
+    "images": [
+      "/images/products/POCO C65/main.jpg",
+      "/images/products/POCO C65/1.jpg",
+      "/images/products/POCO C65/2.jpg",
+      "/images/products/POCO C65/3.jpg",
+      "/images/products/POCO C65/4.jpg",
+      "/images/products/POCO C65/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "POCO",
+    "rating": 4,
+    "reviewCount": 9876,
+    "inStock": true,
+    "stockQuantity": 38,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "poco",
+      "performance"
+    ]
+  },
+  {
+    "id": "prod-0167",
+    "name": "Infinix Hot 30i",
+    "description": "Trendy smartphone with 6.6\" HD+ display, MediaTek Helio G36 processor, 5000mAh battery, 48MP AI camera, and XOS 13 based on Android 13.",
+    "price": 7799,
+    "originalPrice": 9499,
+    "images": [
+      "/images/products/Infinix Hot 30i/main.jpg",
+      "/images/products/Infinix Hot 30i/1.jpg",
+      "/images/products/Infinix Hot 30i/2.jpg",
+      "/images/products/Infinix Hot 30i/3.jpg",
+      "/images/products/Infinix Hot 30i/4.jpg",
+      "/images/products/Infinix Hot 30i/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Infinix",
+    "rating": 3.8,
+    "reviewCount": 5432,
+    "inStock": true,
+    "stockQuantity": 52,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "infinix",
+      "budget"
+    ]
+  },
+  {
+    "id": "prod-0168",
+    "name": "Tecno Spark 10 Pro",
+    "description": "Feature-rich smartphone with 6.8\" FHD+ display, MediaTek Helio G88 processor, 5000mAh battery, 48MP triple camera, and HiOS 13.",
+    "price": 9499,
+    "originalPrice": 11999,
+    "images": [
+      "/images/products/Tecno Spark 10 Pro/main.jpg",
+      "/images/products/Tecno Spark 10 Pro/1.jpg",
+      "/images/products/Tecno Spark 10 Pro/2.jpg",
+      "/images/products/Tecno Spark 10 Pro/3.jpg",
+      "/images/products/Tecno Spark 10 Pro/4.jpg",
+      "/images/products/Tecno Spark 10 Pro/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Tecno",
+    "rating": 4,
+    "reviewCount": 7654,
+    "inStock": true,
+    "stockQuantity": 41,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "tecno",
+      "camera"
+    ]
+  },
+  {
+    "id": "prod-0169",
+    "name": "Lava Blaze 2 5G",
+    "description": "5G-enabled smartphone with 6.56\" HD+ display, MediaTek Dimensity 6020 processor, 5000mAh battery, 50MP camera, and clean Android 13.",
+    "price": 9999,
+    "originalPrice": 12499,
+    "images": [
+      "/images/products/Lava Blaze 2 5G/main.jpg",
+      "/images/products/Lava Blaze 2 5G/1.jpg",
+      "/images/products/Lava Blaze 2 5G/2.jpg",
+      "/images/products/Lava Blaze 2 5G/3.jpg",
+      "/images/products/Lava Blaze 2 5G/4.jpg",
+      "/images/products/Lava Blaze 2 5G/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Lava",
+    "rating": 3.9,
+    "reviewCount": 4321,
+    "inStock": true,
+    "stockQuantity": 25,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "5g",
+      "lava"
+    ]
+  },
+  {
+    "id": "prod-0170",
+    "name": "itel A70",
+    "description": "Ultra-budget smartphone with 6.6\" HD+ display, UNISOC Tiger T603 processor, 4000mAh battery, dual camera, and Android 14 Go edition.",
+    "price": 5999,
+    "originalPrice": 7499,
+    "images": [
+      "/images/products/itel A70/main.jpg",
+      "/images/products/itel A70/1.jpg",
+      "/images/products/itel A70/2.jpg",
+      "/images/products/itel A70/3.jpg",
+      "/images/products/itel A70/4.jpg",
+      "/images/products/itel A70/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "itel",
+    "rating": 3.7,
+    "reviewCount": 3456,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Basic",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "budget",
+      "basic"
+    ]
+  }
+]

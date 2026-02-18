@@ -1,0 +1,72 @@
+[
+  {
+    "name": "boAt BassHeads 242 Wired Earphones",
+    "description": "Sports wired earphones with secure fit, IPX4 sweat resistance and powerful bass.",
+    "price_inr": 499,
+    "image_url": "https://m.media-amazon.com/images/I/61kWB+uzR2L._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B06X1FJZJG"
+  },
+  {
+    "name": "Zebronics Zeb-County Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with USB, AUX, FM radio and long battery backup.",
+    "price_inr": 699,
+    "image_url": "https://m.media-amazon.com/images/I/81qYv7S+3GL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B07QK2SPP7"
+  },
+  {
+    "name": "Logitech M90 Wired USB Mouse",
+    "description": "High precision optical tracking wired mouse with comfortable ambidextrous design.",
+    "price_inr": 299,
+    "image_url": "https://m.media-amazon.com/images/I/61LtuGzXeaL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B003NR57BY"
+  },
+  {
+    "name": "HP KM100 Wired Keyboard + Mouse Combo",
+    "description": "Full-size wired keyboard with optical mouse combo for everyday use.",
+    "price_inr": 799,
+    "image_url": "https://m.media-amazon.com/images/I/61L4L9jS3dL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B016WZ8QRA"
+  },
+  {
+    "name": "Ambrane 10000mAh Power Bank (PP-20)",
+    "description": "Compact lithium polymer power bank with dual USB output and fast charging.",
+    "price_inr": 899,
+    "image_url": "https://m.media-amazon.com/images/I/71lVwl3q-kL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B07PXXF6ZV"
+  },
+  {
+    "name": "TP-Link TL-WN823N 300Mbps USB WiFi Adapter",
+    "description": "High speed wireless USB adapter with soft AP mode and secure connection.",
+    "price_inr": 799,
+    "image_url": "https://m.media-amazon.com/images/I/61F-H7jQ5LL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B0088TKTY2"
+  },
+  {
+    "name": "Mi Dual Driver Wired Earphones",
+    "description": "Dual dynamic drivers with deep bass and tangle-free braided cable.",
+    "price_inr": 799,
+    "image_url": "https://m.media-amazon.com/images/I/61u1VALn6JL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B07JQ8Q6X6"
+  },
+  {
+    "name": "Portronics Toad 6 Wireless Mouse",
+    "description": "2.4GHz wireless mouse with adjustable DPI and ergonomic grip.",
+    "price_inr": 599,
+    "image_url": "https://m.media-amazon.com/images/I/51KkQMYtXhL._SL1000_.jpg",
+    "product_url": "https://www.amazon.in/dp/B08H8D9B6R"
+  },
+  {
+    "name": "SanDisk Ultra 32GB USB Flash Drive (USB 3.0)",
+    "description": "High-speed USB 3.0 flash drive with reliable storage performance.",
+    "price_inr": 499,
+    "image_url": "https://m.media-amazon.com/images/I/61xNG4wjOuL._SL1500_.jpg",
+    "product_url": "https://www.amazon.in/dp/B00DQGBYDC"
+  },
+  {
+    "name": "TP-Link Tapo P100 Mini Smart WiFi Plug",
+    "description": "Smart plug with app control, scheduling and voice assistant compatibility.",
+    "price_inr": 999,
+    "image_url": "https://m.media-amazon.com/images/I/51G0rWm3YEL._SL1000_.jpg",
+    "product_url": "https://www.amazon.in/dp/B08W2BYQK6"
+  }
+]

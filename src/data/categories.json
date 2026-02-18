@@ -1,0 +1,51 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Latest technology and electronic devices",
+    "image": "/images/categories/electronics.jpg"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Wallets, watches, bags and more",
+    "image": "/images/categories/electronics.jpg"
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "slug": "clothing",
+    "description": "Fashion and apparel for all occasions",
+    "image": "/images/categories/clothing.jpg"
+  },
+  {
+    "id": "home-garden",
+    "name": "Home & Garden",
+    "slug": "home-garden",
+    "description": "Everything for your home and garden",
+    "image": "/images/categories/home-garden.jpg"
+  },
+  {
+    "id": "books-media",
+    "name": "Books & Media",
+    "slug": "books-media",
+    "description": "Books, movies, music and entertainment",
+    "image": "/images/categories/books-media.jpg"
+  },
+  {
+    "id": "sports-outdoors",
+    "name": "Sports & Outdoors",
+    "slug": "sports-outdoors",
+    "description": "Sports equipment and outdoor gear",
+    "image": "/images/categories/sports-outdoors.jpg"
+  },
+  {
+    "id": "personal",
+    "name": "Personal Care",
+    "slug": "personal",
+    "description": "Beauty and personal care products",
+    "image": "/images/categories/clothing.jpg"
+  }
+]

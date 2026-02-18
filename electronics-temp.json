@@ -1,0 +1,894 @@
+[
+  {
+    "id": "prod-0041",
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with active noise cancellation, 6-hour battery life, and IPX4 water resistance. Features touch controls and premium sound quality.",
+    "price": 2999,
+    "originalPrice": 4999,
+    "images": [
+      "/images/products/Wireless Earbuds/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "boAt",
+    "rating": 4.3,
+    "reviewCount": 2456,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "wireless"
+    ]
+  },
+  {
+    "id": "prod-0042",
+    "name": "Fire-Boltt Phoenix Pro Smartwatch",
+    "description": "Fitness smartwatch with heart rate monitoring, GPS tracking, and 7-day battery life. Features multiple sports modes and smartphone notifications.",
+    "price": 3999,
+    "originalPrice": 6999,
+    "images": [
+      "/images/products/Smartwatch/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Fire-Boltt",
+    "rating": 4.1,
+    "reviewCount": 1823,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "fitness",
+      "smartwatch"
+    ]
+  },
+  {
+    "id": "prod-0043",
+    "name": "Power Bank",
+    "description": "20000mAh portable power bank with fast charging support and dual USB ports. Features LED display and compact design for travel convenience.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "images": [
+      "/images/products/Power Bank/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 4.4,
+    "reviewCount": 3421,
+    "inStock": true,
+    "stockQuantity": 89,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "power",
+      "portable"
+    ]
+  },
+  {
+    "id": "prod-0044",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound, waterproof design, and 12-hour battery life. Perfect for outdoor adventures and parties.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "images": [
+      "/images/products/Bluetooth Speaker/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "JBL",
+    "rating": 4.5,
+    "reviewCount": 1567,
+    "inStock": true,
+    "stockQuantity": 34,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "portable"
+    ]
+  },
+  {
+    "id": "prod-0045",
+    "name": "Gaming Mouse",
+    "description": "High-precision gaming mouse with RGB lighting, programmable buttons, and ergonomic design. Features adjustable DPI up to 12000 for competitive gaming.",
+    "price": 1999,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/Gaming Mouse/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Logitech",
+    "rating": 4.3,
+    "reviewCount": 892,
+    "inStock": true,
+    "stockQuantity": 56,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "gaming",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0046",
+    "name": "Wireless Keyboard",
+    "description": "Slim wireless keyboard with backlit keys, long battery life, and quiet typing experience. Compatible with multiple devices via Bluetooth.",
+    "price": 2799,
+    "originalPrice": 4299,
+    "images": [
+      "/images/products/Wireless Keyboard/main.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Logitech",
+    "rating": 4.2,
+    "reviewCount": 1234,
+    "inStock": true,
+    "stockQuantity": 43,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "2 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "keyboard",
+      "wireless"
+    ]
+  },
+  {
+    "id": "prod-0148",
+    "name": "boAt Airdopes 131 TWS Earbuds",
+    "description": "True wireless earbuds with 60H playtime, BEAST mode for low latency gaming, IPX4 water resistance, and instant voice assistant access.",
+    "price": 1299,
+    "originalPrice": 2990,
+    "images": [
+      "/images/products/boAt Airdopes 131 TWS Earbuds/main.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/1.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/2.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/3.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/4.jpg",
+      "/images/products/boAt Airdopes 131 TWS Earbuds/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "boAt",
+    "rating": 4.1,
+    "reviewCount": 15420,
+    "inStock": true,
+    "stockQuantity": 85,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "wireless",
+      "earbuds"
+    ]
+  },
+  {
+    "id": "prod-0149",
+    "name": "Realme Buds Air 3 Neo",
+    "description": "Wireless earbuds with 30H total playback, fast charging, AI ENC for calls, and 10mm dynamic bass boost driver for immersive sound.",
+    "price": 1799,
+    "originalPrice": 2999,
+    "images": [
+      "/images/products/Realme Buds Air 3 Neo/main.jpg",
+      "/images/products/Realme Buds Air 3 Neo/1.jpg",
+      "/images/products/Realme Buds Air 3 Neo/2.jpg",
+      "/images/products/Realme Buds Air 3 Neo/3.jpg",
+      "/images/products/Realme Buds Air 3 Neo/4.jpg",
+      "/images/products/Realme Buds Air 3 Neo/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Realme",
+    "rating": 4.2,
+    "reviewCount": 8934,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "wireless",
+      "earbuds"
+    ]
+  },
+  {
+    "id": "prod-0150",
+    "name": "Mi 10000mAh Power Bank 3i",
+    "description": "Fast charging power bank with 18W fast charging, dual USB output, 10000mAh capacity, and 12-layer circuit protection for safe charging.",
+    "price": 999,
+    "originalPrice": 1499,
+    "images": [
+      "/images/products/Mi 10000mAh Power Bank 3i/main.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/1.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/2.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/3.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/4.jpg",
+      "/images/products/Mi 10000mAh Power Bank 3i/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 4.3,
+    "reviewCount": 25678,
+    "inStock": true,
+    "stockQuantity": 120,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "power",
+      "portable",
+      "charging"
+    ]
+  },
+  {
+    "id": "prod-0151",
+    "name": "Portronics Konnect L 1.2M USB Cable",
+    "description": "Fast charging USB Type-C cable with 3A current support, data sync capability, durable braided design, and universal compatibility.",
+    "price": 349,
+    "originalPrice": 699,
+    "images": [
+      "/images/products/Portronics Konnect L 1.2M USB Cable/main.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/1.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/2.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/3.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/4.jpg",
+      "/images/products/Portronics Konnect L 1.2M USB Cable/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Portronics",
+    "rating": 4,
+    "reviewCount": 3456,
+    "inStock": true,
+    "stockQuantity": 200,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "cable",
+      "charging",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0152",
+    "name": "Ambrane 20W Fast Charger",
+    "description": "20W USB-C PD fast charger with universal compatibility, compact design, multiple safety protections, and efficient charging technology.",
+    "price": 599,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/Ambrane 20W Fast Charger/main.jpg",
+      "/images/products/Ambrane 20W Fast Charger/1.jpg",
+      "/images/products/Ambrane 20W Fast Charger/2.jpg",
+      "/images/products/Ambrane 20W Fast Charger/3.jpg",
+      "/images/products/Ambrane 20W Fast Charger/4.jpg",
+      "/images/products/Ambrane 20W Fast Charger/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Ambrane",
+    "rating": 4.1,
+    "reviewCount": 5678,
+    "inStock": true,
+    "stockQuantity": 95,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "charger",
+      "fast charging",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0153",
+    "name": "Zebronics Zeb-Sound Bomb 1 Speaker",
+    "description": "Portable Bluetooth speaker with 5W output, 6H playtime, FM radio, AUX input, and compact design perfect for outdoor activities.",
+    "price": 799,
+    "originalPrice": 1299,
+    "images": [
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/main.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/1.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/2.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/3.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/4.jpg",
+      "/images/products/Zebronics Zeb-Sound Bomb 1 Speaker/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Zebronics",
+    "rating": 3.9,
+    "reviewCount": 4321,
+    "inStock": true,
+    "stockQuantity": 78,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "audio",
+      "speaker",
+      "portable"
+    ]
+  },
+  {
+    "id": "prod-0154",
+    "name": "Noise ColorFit Pro 4 Alpha Smartwatch",
+    "description": "Advanced smartwatch with 1.78\" AMOLED display, 60Hz refresh rate, 100+ sports modes, health monitoring, and 7-day battery life.",
+    "price": 4999,
+    "originalPrice": 7999,
+    "images": [
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/main.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/1.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/2.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/3.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/4.jpg",
+      "/images/products/Noise ColorFit Pro 4 Alpha Smartwatch/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Noise",
+    "rating": 4.2,
+    "reviewCount": 12456,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Premium",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartwatch",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "prod-0155",
+    "name": "Fire-Boltt Phoenix Pro Smartwatch",
+    "description": "Premium smartwatch with 1.39\" HD display, Bluetooth calling, 120+ sports modes, SpO2 monitoring, and IP67 water resistance.",
+    "price": 2999,
+    "originalPrice": 5999,
+    "images": [
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/main.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/1.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/2.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/3.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/4.jpg",
+      "/images/products/Fire-Boltt Phoenix Pro Smartwatch/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Fire-Boltt",
+    "rating": 4,
+    "reviewCount": 18765,
+    "inStock": true,
+    "stockQuantity": 62,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartwatch",
+      "fitness",
+      "calling"
+    ]
+  },
+  {
+    "id": "prod-0156",
+    "name": "Redgear A-15 Wired Gaming Headset",
+    "description": "Professional gaming headset with 7.1 surround sound, noise-canceling microphone, RGB lighting, and comfortable over-ear design.",
+    "price": 1599,
+    "originalPrice": 2999,
+    "images": [
+      "/images/products/Redgear A-15 Wired Gaming Headset/main.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/1.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/2.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/3.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/4.jpg",
+      "/images/products/Redgear A-15 Wired Gaming Headset/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Redgear",
+    "rating": 4.1,
+    "reviewCount": 7890,
+    "inStock": true,
+    "stockQuantity": 55,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "gaming",
+      "headset",
+      "audio"
+    ]
+  },
+  {
+    "id": "prod-0157",
+    "name": "Logitech B175 Wireless Mouse",
+    "description": "Reliable wireless mouse with 12-month battery life, plug-and-play setup, comfortable design, and precise optical tracking.",
+    "price": 895,
+    "originalPrice": 1295,
+    "images": [
+      "/images/products/Logitech B175 Wireless Mouse/main.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/1.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/2.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/3.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/4.jpg",
+      "/images/products/Logitech B175 Wireless Mouse/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Logitech",
+    "rating": 4.2,
+    "reviewCount": 9876,
+    "inStock": true,
+    "stockQuantity": 89,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "3 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "mouse",
+      "wireless",
+      "computer"
+    ]
+  },
+  {
+    "id": "prod-0158",
+    "name": "HP 32GB USB 3.0 Flash Drive",
+    "description": "High-speed USB 3.0 flash drive with 32GB storage, compact metal design, fast data transfer, and universal compatibility.",
+    "price": 649,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/HP 32GB USB 3.0 Flash Drive/main.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/1.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/2.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/3.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/4.jpg",
+      "/images/products/HP 32GB USB 3.0 Flash Drive/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "HP",
+    "rating": 4,
+    "reviewCount": 5432,
+    "inStock": true,
+    "stockQuantity": 150,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "5 years",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "storage",
+      "usb",
+      "data"
+    ]
+  },
+  {
+    "id": "prod-0159",
+    "name": "Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo",
+    "description": "Wireless keyboard and mouse combo with 2.4GHz connectivity, spill-resistant keyboard, optical mouse, and long battery life.",
+    "price": 1299,
+    "originalPrice": 1999,
+    "images": [
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/main.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/1.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/2.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/3.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/4.jpg",
+      "/images/products/Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Quantum",
+    "rating": 3.8,
+    "reviewCount": 3456,
+    "inStock": true,
+    "stockQuantity": 72,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "keyboard",
+      "mouse",
+      "combo"
+    ]
+  },
+  {
+    "id": "prod-0160",
+    "name": "Portronics Toad 20 Car Charger",
+    "description": "Dual USB car charger with 3.4A output, smart charging technology, LED indicator, and compact design for all vehicles.",
+    "price": 399,
+    "originalPrice": 699,
+    "images": [
+      "/images/products/Portronics Toad 20 Car Charger/main.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/1.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/2.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/3.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/4.jpg",
+      "/images/products/Portronics Toad 20 Car Charger/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Portronics",
+    "rating": 4,
+    "reviewCount": 2345,
+    "inStock": true,
+    "stockQuantity": 110,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "charger",
+      "car",
+      "accessories"
+    ]
+  },
+  {
+    "id": "prod-0161",
+    "name": "Syska 10000mAh Power Bank",
+    "description": "Compact power bank with 10000mAh capacity, dual USB output, LED indicators, and multiple safety protections for reliable charging.",
+    "price": 899,
+    "originalPrice": 1499,
+    "images": [
+      "/images/products/Syska 10000mAh Power Bank/main.jpg",
+      "/images/products/Syska 10000mAh Power Bank/1.jpg",
+      "/images/products/Syska 10000mAh Power Bank/2.jpg",
+      "/images/products/Syska 10000mAh Power Bank/3.jpg",
+      "/images/products/Syska 10000mAh Power Bank/4.jpg",
+      "/images/products/Syska 10000mAh Power Bank/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Syska",
+    "rating": 4.1,
+    "reviewCount": 6789,
+    "inStock": true,
+    "stockQuantity": 88,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "power",
+      "portable",
+      "charging"
+    ]
+  },
+  {
+    "id": "prod-0162",
+    "name": "Intex IT-2202 SUF OS 2.1 Computer Speakers",
+    "description": "2.1 multimedia speakers with subwoofer, 25W RMS output, volume control, bass control, and 3.5mm audio input for computers.",
+    "price": 1199,
+    "originalPrice": 1799,
+    "images": [
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/main.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/1.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/2.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/3.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/4.jpg",
+      "/images/products/Intex IT-2202 SUF OS 2.1 Computer Speakers/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Intex",
+    "rating": 3.9,
+    "reviewCount": 4567,
+    "inStock": true,
+    "stockQuantity": 65,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "speakers",
+      "computer",
+      "audio"
+    ]
+  },
+  {
+    "id": "prod-0163",
+    "name": "Redmi A3",
+    "description": "Budget smartphone with 6.71\" HD+ display, MediaTek Helio G36 processor, 5000mAh battery, dual rear camera, and Android 14 Go edition.",
+    "price": 7299,
+    "originalPrice": 8999,
+    "images": [
+      "/images/products/Redmi A3/main.jpg",
+      "/images/products/Redmi A3/1.jpg",
+      "/images/products/Redmi A3/2.jpg",
+      "/images/products/Redmi A3/3.jpg",
+      "/images/products/Redmi A3/4.jpg",
+      "/images/products/Redmi A3/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Xiaomi",
+    "rating": 4,
+    "reviewCount": 8945,
+    "inStock": true,
+    "stockQuantity": 45,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "budget",
+      "android"
+    ]
+  },
+  {
+    "id": "prod-0164",
+    "name": "Samsung Galaxy M04",
+    "description": "Entry-level smartphone with 6.5\" HD+ display, MediaTek Helio P35 processor, 5000mAh battery, dual camera setup, and One UI Core.",
+    "price": 8499,
+    "originalPrice": 9999,
+    "images": [
+      "/images/products/Samsung Galaxy M04/main.jpg",
+      "/images/products/Samsung Galaxy M04/1.jpg",
+      "/images/products/Samsung Galaxy M04/2.jpg",
+      "/images/products/Samsung Galaxy M04/3.jpg",
+      "/images/products/Samsung Galaxy M04/4.jpg",
+      "/images/products/Samsung Galaxy M04/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Samsung",
+    "rating": 3.9,
+    "reviewCount": 6734,
+    "inStock": true,
+    "stockQuantity": 32,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "samsung",
+      "android"
+    ]
+  },
+  {
+    "id": "prod-0165",
+    "name": "Realme C55",
+    "description": "Stylish smartphone with 6.72\" FHD+ display, MediaTek Helio G88 processor, 5000mAh battery, 64MP AI camera, and realme UI 4.0.",
+    "price": 9999,
+    "originalPrice": 12999,
+    "images": [
+      "/images/products/Realme C55/main.jpg",
+      "/images/products/Realme C55/1.jpg",
+      "/images/products/Realme C55/2.jpg",
+      "/images/products/Realme C55/3.jpg",
+      "/images/products/Realme C55/4.jpg",
+      "/images/products/Realme C55/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Realme",
+    "rating": 4.1,
+    "reviewCount": 12456,
+    "inStock": true,
+    "stockQuantity": 28,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "realme",
+      "camera"
+    ]
+  },
+  {
+    "id": "prod-0166",
+    "name": "POCO C65",
+    "description": "Performance-focused smartphone with 6.74\" HD+ display, MediaTek Helio G85 processor, 5000mAh battery, 50MP camera, and MIUI 14.",
+    "price": 8999,
+    "originalPrice": 10999,
+    "images": [
+      "/images/products/POCO C65/main.jpg",
+      "/images/products/POCO C65/1.jpg",
+      "/images/products/POCO C65/2.jpg",
+      "/images/products/POCO C65/3.jpg",
+      "/images/products/POCO C65/4.jpg",
+      "/images/products/POCO C65/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "POCO",
+    "rating": 4,
+    "reviewCount": 9876,
+    "inStock": true,
+    "stockQuantity": 38,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "poco",
+      "performance"
+    ]
+  },
+  {
+    "id": "prod-0167",
+    "name": "Infinix Hot 30i",
+    "description": "Trendy smartphone with 6.6\" HD+ display, MediaTek Helio G36 processor, 5000mAh battery, 48MP AI camera, and XOS 13 based on Android 13.",
+    "price": 7799,
+    "originalPrice": 9499,
+    "images": [
+      "/images/products/Infinix Hot 30i/main.jpg",
+      "/images/products/Infinix Hot 30i/1.jpg",
+      "/images/products/Infinix Hot 30i/2.jpg",
+      "/images/products/Infinix Hot 30i/3.jpg",
+      "/images/products/Infinix Hot 30i/4.jpg",
+      "/images/products/Infinix Hot 30i/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Infinix",
+    "rating": 3.8,
+    "reviewCount": 5432,
+    "inStock": true,
+    "stockQuantity": 52,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "infinix",
+      "budget"
+    ]
+  },
+  {
+    "id": "prod-0168",
+    "name": "Tecno Spark 10 Pro",
+    "description": "Feature-rich smartphone with 6.8\" FHD+ display, MediaTek Helio G88 processor, 5000mAh battery, 48MP triple camera, and HiOS 13.",
+    "price": 9499,
+    "originalPrice": 11999,
+    "images": [
+      "/images/products/Tecno Spark 10 Pro/main.jpg",
+      "/images/products/Tecno Spark 10 Pro/1.jpg",
+      "/images/products/Tecno Spark 10 Pro/2.jpg",
+      "/images/products/Tecno Spark 10 Pro/3.jpg",
+      "/images/products/Tecno Spark 10 Pro/4.jpg",
+      "/images/products/Tecno Spark 10 Pro/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Tecno",
+    "rating": 4,
+    "reviewCount": 7654,
+    "inStock": true,
+    "stockQuantity": 41,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "tecno",
+      "camera"
+    ]
+  },
+  {
+    "id": "prod-0169",
+    "name": "Lava Blaze 2 5G",
+    "description": "5G-enabled smartphone with 6.56\" HD+ display, MediaTek Dimensity 6020 processor, 5000mAh battery, 50MP camera, and clean Android 13.",
+    "price": 9999,
+    "originalPrice": 12499,
+    "images": [
+      "/images/products/Lava Blaze 2 5G/main.jpg",
+      "/images/products/Lava Blaze 2 5G/1.jpg",
+      "/images/products/Lava Blaze 2 5G/2.jpg",
+      "/images/products/Lava Blaze 2 5G/3.jpg",
+      "/images/products/Lava Blaze 2 5G/4.jpg",
+      "/images/products/Lava Blaze 2 5G/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "Lava",
+    "rating": 3.9,
+    "reviewCount": 4321,
+    "inStock": true,
+    "stockQuantity": 25,
+    "specifications": {
+      "Quality": "Good",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "5g",
+      "lava"
+    ]
+  },
+  {
+    "id": "prod-0170",
+    "name": "itel A70",
+    "description": "Ultra-budget smartphone with 6.6\" HD+ display, UNISOC Tiger T603 processor, 4000mAh battery, dual camera, and Android 14 Go edition.",
+    "price": 5999,
+    "originalPrice": 7499,
+    "images": [
+      "/images/products/itel A70/main.jpg",
+      "/images/products/itel A70/1.jpg",
+      "/images/products/itel A70/2.jpg",
+      "/images/products/itel A70/3.jpg",
+      "/images/products/itel A70/4.jpg",
+      "/images/products/itel A70/5.jpg"
+    ],
+    "category": "electronics",
+    "brand": "itel",
+    "rating": 3.7,
+    "reviewCount": 3456,
+    "inStock": true,
+    "stockQuantity": 67,
+    "specifications": {
+      "Quality": "Basic",
+      "Warranty": "1 year",
+      "Delivery": "Free"
+    },
+    "tags": [
+      "electronics",
+      "smartphone",
+      "budget",
+      "basic"
+    ]
+  }
+]
