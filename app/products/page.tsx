@@ -4,7 +4,7 @@ import Header from '@/components/header';
 import Footer from '@/components/footer';
 import ProductCard from '@/components/product-card';
 import { Search, SlidersHorizontal, X } from 'lucide-react';
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import productsData from '@/products.json';
 
@@ -42,7 +42,7 @@ const ALL_PRODUCTS = productsData
 // Get unique categories
 const CATEGORIES = ['All', ...Array.from(new Set(ALL_PRODUCTS.map(p => p.category)))].sort();
 
-export default function ProductsPage() {
+function ProductsContent() {
   const searchParams = useSearchParams();
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
@@ -310,5 +310,23 @@ export default function ProductsPage() {
 
       <Footer />
     </main>
+  );
+}
+
+export default function ProductsPage() {
+  return (
+    <Suspense fallback={
+      <main className="min-h-screen bg-background flex flex-col">
+        <Header />
+        <div className="flex-grow max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8">
+          <div className="text-center py-16">
+            <p className="text-xl text-muted-foreground">Loading products...</p>
+          </div>
+        </div>
+        <Footer />
+      </main>
+    }>
+      <ProductsContent />
+    </Suspense>
   );
 }
